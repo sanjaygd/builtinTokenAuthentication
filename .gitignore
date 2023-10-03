@@ -1,0 +1,85 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Caching
+*.db
+*.sqlite3
+__pycache__
+
+# Logs
+*.log
+
+# Virtual environment
+venv/
+env/
+.env
+
+# Environment variables
+.env
+
+# Local settings
+local_settings.py
+
+# Compiled Python files
+*.pyc
+
+# Docker Compose
+docker-compose.yml
+docker-compose.override.yml
+*.dockerfile
+
+# IDE files
+.idea/
+.vscode/
+
+# Mac OS
+.DS_Store
+
+# Compiled bytecode
+*.pyc
+
+# Distribution / packaging
+*.egg-info/
+dist/
+
+# Python Installer
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+
+# Celery
+celerybeat-schedule
+celerybeat.pid
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# pyenv
+.python-version
+
+# pipenv
+Pipfile
+Pipfile.lock
